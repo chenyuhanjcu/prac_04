@@ -1,3 +1,8 @@
+"""
+CP1404/CP5632 Practical
+List exercises
+"""
+
 #1. Basic list operations
 numbers = []
 for i in range(5):
